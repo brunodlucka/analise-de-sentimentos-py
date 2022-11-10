@@ -36,5 +36,6 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
-                     ![resultados sentimentos](https://user-images.githubusercontent.com/79919310/200978062-a75c27f9-2187-4e52-a226-51ad0087b670.JPG)
+   ![resultados sentimentos](https://user-images.githubusercontent.com/79919310/200978062-a75c27f9-2187-4e52-a226-51ad0087b670.JPG)
