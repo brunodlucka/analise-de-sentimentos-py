@@ -21,9 +21,10 @@
 
           Palavras Opnativas tem mais pesos na hora da analise, palavras como bom,ruim,chato,raiva.
                
-          a coleta com base em Técnicas não supervisionadas: Não requerem treinamento, não é restrio ao contexto.
+ a coleta com base em Técnicas não supervisionadas: Não requerem treinamento, não é restrto ao contexto.
 
-          a coleta com base em Machine Learning: acontece com uma base de dados de amostras previamente cadastradas e treinada. ( requer uma supervisão para contextos )
+          a coleta com base em Machine Learning: acontece com uma base de dados de amostras previamente cadastradas e treinada.
+                                                ( requer uma supervisão para contextos )
 
 
 
