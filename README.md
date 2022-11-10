@@ -7,7 +7,9 @@
                                                            
                                                            
 
-Subjetividade e Objetividade
+                                                              Subjetividade e Objetividade
+                                                              
+                                                              
 Sentenças Sub - Sentimentos, Opniões.
 Sentenças Obj - Informalçoes, Fatos. 
 
