@@ -1,18 +1,18 @@
 "# Observando a polaridade em análise de Sentimentos.
 
 
-                                                         " Black Mirror é otimo! - Positivo
-                                                           Black Mirror é péssimo - Negativo
-                                                           Black Mirror é uma série - Neutro
+   " Black Mirror é otimo! - Positivo
+     Black Mirror é péssimo - Negativo
+     Black Mirror é uma série - Neutro
                                                            
                                                            
 
-                                                             Subjetividade e Objetividade
+     Subjetividade e Objetividade
                                                               
                                                               
-                                                         Sentenças Sub = Sentimentos, Opniões.
+    Sentenças Sub = Sentimentos, Opniões.
                                                          .
-                                                         Sentenças Obj - Informalçoes, Fatos. 
+    Sentenças Obj - Informalçoes, Fatos. 
                                                          
                                                          
 
