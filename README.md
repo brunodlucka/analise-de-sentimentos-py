@@ -1,4 +1,4 @@
-"# Observando a polaridade em análise de Sentimentos.
+" # Observando a polaridade em análise de Sentimentos.
 
 
 
