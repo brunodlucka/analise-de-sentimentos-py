@@ -1,9 +1,10 @@
 "# Observando a polaridade em análise de Sentimentos.
 
 
-   " Black Mirror é otimo! - Positivo
-     Black Mirror é péssimo - Negativo
-     Black Mirror é uma série - Neutro
+
+                       " Black Mirror é otimo! - Positivo
+                         Black Mirror é péssimo - Negativo
+                         Black Mirror é uma série - Neutro
                                                            
                                                            
 
