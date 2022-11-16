@@ -13,7 +13,7 @@
                                                               
                       Sentenças Sub = Sentimentos, Opniões.
                                                          .
-                      Sentenças Obj - Informalçoes, Fatos. 
+                      Sentenças Obj - Informaçoes, Fatos. 
                                                          
                                                          
 
